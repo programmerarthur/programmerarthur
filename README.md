@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @programmerarthur
-- 👀 I’m interested in game development, music production, programming, website development
-- 🌱 I’m currently learning music production, website dev
-- 💞️ I might be looking to collaborate with game development
-- 📫 How to reach me:
-- 🟣Discord: artyokai#4444⚪
+👋 Greetings, fellow developers! 
+
+-----------------------   -----------------------
+- 👀 Interests:           - 📚 Areas of Expertise (Maybe): 
+  - Game development       - Game development
+  - Music production       - Music production
+  - Programming            - Programming
+  - Website development    - Website development
+
+- 🌱 Currently learning:  - 💻 Skills:
+  - Music production       - Versatile software engineering
+  - Website development    - Attention to detail
+                            - Dedication to excellence
+- 💞️ Mightbe looking to collaborate on game development
+
+-----------------------   -----------------------
+- 📫 How to reach me:     - 🧠 About me:
+  - Discord:              - As a lifelong learner,
+    artyokai#4444           I am constantly striving to
+                            improve my craft and stay
+                            up-to-date with the latest
+                            trends and best practices
+                            in the industry. 
+-----------------------   -----------------------
  
 
 <!---
