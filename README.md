@@ -8,8 +8,8 @@
   - Website development    - Website development
 
 - 🌱 Currently learning:  - 💻 Skills:
-  - Music production       - Versatile software engineering
-  - Website development    - Attention to detail
+  - Music production        - Versatile software engineering
+  - Website development     - Attention to detail
                             - Dedication to excellence
                             
 - 💞️ Mightbe looking to collaborate on game development
