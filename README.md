@@ -6,20 +6,17 @@
 - Programming              
 - Website development      
 
-📚 Areas of Expertise:    
+📚 Areas of Expertise (Maybe):    
 - Game development         
 - Music production         
-- Programming              
-- Website development      
+- Programming                    
 
 🌱 Currently learning:   
 - Music production         
 - Website development      
 
 💻 Skills:
-- Versatile software engineering
-- Attention to detail
-- Dedication to excellence
+(Might update later)
 
 💞️ Looking to collaborate on game development
 
