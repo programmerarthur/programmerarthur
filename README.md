@@ -11,16 +11,13 @@
   - Music production       - Versatile software engineering
   - Website development    - Attention to detail
                             - Dedication to excellence
+                            
 - 💞️ Mightbe looking to collaborate on game development
 
 -----------------------   -----------------------
 - 📫 How to reach me:     - 🧠 About me:
-  - Discord:              - As a lifelong learner,
-    artyokai#4444           I am constantly striving to
-                            improve my craft and stay
-                            up-to-date with the latest
-                            trends and best practices
-                            in the industry. 
+  - Discord:              Hmm
+  - artyokai#4444              
 -----------------------   -----------------------
  
 
