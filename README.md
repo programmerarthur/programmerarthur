@@ -1,15 +1,33 @@
 👋 Greetings, fellow developers! 
 
-👀 Interests:               📚 Areas of Expertise:    🌱 Currently learning:   💻 Skills:
-- Game development         - Game development         - Music production       - Versatile software engineering
-- Music production         - Music production         - Website development    - Attention to detail
-- Programming              - Programming                                          - Dedication to excellence
-- Website development      - Website development
+👀 Interests:             
+- Game development         
+- Music production         
+- Programming              
+- Website development      
+
+📚 Areas of Expertise:    
+- Game development         
+- Music production         
+- Programming              
+- Website development      
+
+🌱 Currently learning:   
+- Music production         
+- Website development      
+
+💻 Skills:
+- Versatile software engineering
+- Attention to detail
+- Dedication to excellence
 
 💞️ Looking to collaborate on game development
 
-📫 How to reach me:         🧠 About me:
-- Discord: artyokai#4444   As a lifelong learner, I am constantly striving to improve my craft and stay up-to-date with the latest trends and best practices in the industry. 
+📫 How to reach me:       
+- Discord: artyokai#4444   
+
+🧠 About me:
+hmm
 
 <!---
 programmerarthur/programmerarthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
