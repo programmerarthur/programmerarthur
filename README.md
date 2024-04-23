@@ -21,7 +21,7 @@
 💞️ Looking to collaborate on game development
 
 📫 How to reach me:       
-- Discord: artyokai#4444   
+- Discord: artcordfr  
 
 🧠 About me:
 hmm
